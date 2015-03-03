@@ -1,6 +1,6 @@
 {
     "name": "expb.js",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Exponential backoff",
     "author": "Emmanuel Odeke <odeke@ualberta.ca>",
     "license": "MIT",
@@ -10,8 +10,9 @@
         "io.js": "*"
     },
     "keywords": [
-        "exponential backoff",
         "backoff",
+        "exponential backoff",
+        "net",
         "retry"
     ],
     "private": false,

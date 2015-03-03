@@ -1,6 +1,6 @@
 ### expb.js
 
-Exponential backoff with time outs in 2^n durations.
+Exponential backoff with time outs in 2^n ms durations.
 
 #Sample usage:
 
