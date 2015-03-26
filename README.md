@@ -1,4 +1,4 @@
-### expb.js
+### expb.js [![NPM](https://nodei.co/npm/expb.js.png)](https://npmjs.org/package/expb.js)
 
 Exponential backoff with time outs in 2^n ms durations.
 
