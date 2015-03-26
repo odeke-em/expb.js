@@ -1,6 +1,6 @@
 {
     "name": "expb.js",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "description": "Exponential backoff",
     "author": "Emmanuel Odeke <odeke@ualberta.ca>",
     "license": "MIT",
